@@ -8,5 +8,3 @@ Javascript is both scripting and programming language that allows you to impleme
 ### Note
 The file extesion of a JavaScript file is `.js`
 We will need a JavaScript engine to run our `.js` file.
-
-Please visite next chapter here-> [Chapter 2](./02_Installation.md)
