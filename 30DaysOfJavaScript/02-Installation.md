@@ -8,4 +8,4 @@ After downloading the NodeJS, now we have to install it in our system.
 
 
 ## Visual Studio Code Editor
-NodeJS will provide us the environment to run our JavaScript program. But we still need something to write down our code. This is where we will need VS Code. It is a code editor which allows us to develop programs. 
+NodeJS will provide us the environment to run our JavaScript program. But we still need something to write down our code. This is where we will need VS Code. It is a code editor which allows us to develop programs. You can download it from their website. [Download](https://code.visualstudio.com/download) and install it in your machine.
