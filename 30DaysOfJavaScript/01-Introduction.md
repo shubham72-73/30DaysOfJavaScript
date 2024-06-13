@@ -6,11 +6,14 @@ JavaScript was developed by Brendan Eich in 1995. It was developed for Netscape 
 Javascript is both scripting and programming language that allows you to implement complex features on web pages. 99% of the websites uses JavaScript as their client-side language. However, it can be used for both Client-Side (Frontend) and Server-Side (Backend).
 
 ## Features of JavaScript
-- JavaScript is a light-weight scripting language.
-- One point to remember that, JavaScript is a synchronous, single-threaded programming language. However, there are some techniques to perform asynchronous tasks.
-- Works for Client as well as Server side.
+- JavaScript is a synchronous, single-threaded programming language. However, there are some techniques to perform asynchronous tasks. (We'll discuss about it in later chapters)
 - It is an Interpreted Language.
-- It provides more control in Web Browsers. We can run JavaScript code directly from our Browser using built-in console.
+- It is an Object Oriented programming language.
+- Functions are the heart of JavaScript and are treated as First-class citizen.
+- JavaScript programmers have access to a large number of libraries to perform different tasks.
+- It has Cross-platform compatibility.
+- JavaScript is a weakly typed language.
+- There is a vast community available to seek help if stuck somewhere.
 
 
 ### Note

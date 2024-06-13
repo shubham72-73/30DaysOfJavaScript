@@ -1,10 +1,15 @@
 ## Download Node.js
 In order to run JavaScript in local machine, first of all you have to download [Node.js](https://nodejs.org/en). This serves as a JavaScript runtime environment that's means it will allow you to run JavaScript outside the browser.
 
-Node.js is built on top of google chrome V8 engine which is open source by google.
+Node.js is built on top of Google Chrome's V8 engine which is open source by google.
 
 ## Step to install
 After downloading the NodeJS, now we have to install it in our system.
+
+- Run the installer and follow the prompts.
+- Accept the license aggrement and choose the installation location.
+- Allow npm installation (recommended) and add NodeJS to your PATH.
+- Restart your computer after installation completed.
 
 
 ## Visual Studio Code Editor
