@@ -15,6 +15,12 @@ Javascript is both scripting and programming language that allows you to impleme
 - JavaScript is a weakly typed language.
 - There is a vast community available to seek help if stuck somewhere.
 
+## What is JavaScript used for?
+JavaScript is mainly used for web-based applications and web browsers. But JavaScript is also used beyond the Web in software, servers, and embedded hardware controls. Here are some basic things JavaScript is used for:
+- Creating web and mobile apps
+- Building web servers 
+- Game development
+
 
 ### Note
 The file extesion of a JavaScript file is `.js`
