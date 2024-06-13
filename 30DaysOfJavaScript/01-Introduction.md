@@ -12,6 +12,12 @@ Javascript is both scripting and programming language that allows you to impleme
 - It is an Interpreted Language.
 - It provides more control in Web Browsers. We can run JavaScript code directly from our Browser using built-in console.
 
+## What is JavaScript used for?
+JavaScript is mainly used for web-based applications and web browsers. But JavaScript is also used beyond the Web in software, servers, and embedded hardware controls. Here are some basic things JavaScript is used for:
+- Creating web and mobile apps
+- Building web servers 
+- Game development
+
 
 ### Note
 The file extesion of a JavaScript file is `.js`
