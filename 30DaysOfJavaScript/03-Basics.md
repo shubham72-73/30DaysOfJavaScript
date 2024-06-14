@@ -1,9 +1,15 @@
 ## Our First Program
 Let us write our first JavaScript program:
-```bash
+```js
 console.log("Hello World");
 ```
-This will print `Hello World` in the console.
+To run this program first save the file in the format `<fileName>.js` and then open terminal.
+
+Now type `node <fileName>.js` in the terminal and press `Enter`.
+
+Alternatively, you can install an Extension named 'Code Runner' in your VS Code to directly run you programs using the Code Runner button located at top-right section of code editor or you can also use shortcut `Ctrl + Alt + N`.
+
+The above program will print `Hello World` in the console.
 <br><br>
 
 ## Basic Terminology
