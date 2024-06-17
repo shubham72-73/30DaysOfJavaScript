@@ -9,6 +9,31 @@
 
 </h1>
 
+## Set-up locally and Run
+* [Fork](https://github.com/shubham72-73/30DaysOfJavaScript/fork) the repo
+  
+* Clone on local machine
+ ```
+  git clone https://github.com/<your_github_username>/30DaysOfJavaScript.git
+ ```
+* Change directory
+```
+cd 30DaysOfJavaScript 
+```
+
+* Install `docsify-cli`
+```
+npm i docsify-cli -g
+```
+
+* Run
+```
+docsify serve
+```
+
+## 🧑‍💻 Contributing
+* Contributions to 30DaysOfJavaScript, Please check our [CONTRIBUTING.md](./CONTRIBUTING.md)
+
 ## Thanks to all the Contributors ❤️
 
 <img src="https://contrib.rocks/image?repo=shubham72-73/30DaysOfJavaScript" />
