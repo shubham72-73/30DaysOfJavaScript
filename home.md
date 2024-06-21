@@ -11,3 +11,7 @@ In this self-paced JavaScript course, participants will embark on a comprehensiv
 
 ## Who should learn?
 Whether you are an entry-level enthusiast or a seasoned industry professional, our documentation offers valuable insights suitable for individuals at every stage of their JavaScript journey. For those well-versed in the basics, the option to bypass introductory chapters is available, enabling them to delve directly into more advanced topics. Conversely, beginners are warmly welcomed to embark on what we believe to be the premier JavaScript course, meticulously designed to cater to their foundational learning needs.
+
+## Authors
+
+<img src="https://contrib.rocks/image?repo=shubham72-73/30DaysOfJavaScript" />
