@@ -7,6 +7,6 @@
 - [04- Operators](./30DaysOfJavaScript/04-Operators.md)
 - [05- Conditionals](./30DaysOfJavaScript/05-Conditionals.md)
 - [06- Loops](./30DaysOfJavaScript/06-Loops.md)
-- [07- Objects](./30DaysOfJavaScript/07-objects.md)
+- [07- Objects](./30DaysOfJavaScript/07-Objects.md)
 
 </details>
