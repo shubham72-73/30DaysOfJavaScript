@@ -47,3 +47,56 @@ console.log("Ball" > "Apple");
 This will print `true` because ASCII value of B (which is 66) is greater than ASCII value of A (which is 65).
 
 In JavaScript, `===` is preferred more as it compares the values keeping their data types, (i.e., no automatic data type coercion) which is helpful in avoiding bugs.
+
+### Logical Operators
+Logical operators return `true` or `false` depending upon the conditions. There are three logical operators in JavaScript. These are as follows:
+- AND ( && )
+- OR ( || )
+- NOT ( ! )
+<br/>
+<br/>
+
+**AND ( && )** returns `true` if two conditions are true. If any of the two is false, result will be false.
+
+```js
+let result1 = 2<5 && 7<10;
+let result2 = 2<5 && 7>10;
+console.log(result1);
+console.log(result2);
+```
+Output:
+```bash
+true
+false
+```
+
+<br/>
+
+**OR ( || )** returns `true` if any one or both of the conditions are true. It returns `false` only if both the conditions are false.
+
+```js
+let result1 = 2<5 || 7<10;
+let result2 = 2<5 || 7>10;
+let result3 = 2>5 || 7>10;
+console.log(result1);
+console.log(result2);
+console.log(result3);
+```
+Output:
+```bash
+true
+true
+false
+```
+<br/>
+
+**NOT ( ! )** just reverse the output i.e., it returns `true` for false conditions and `false` for true conditions.
+
+```js
+let result = 5>10;
+console.log(!result);
+```
+Output:
+```bash
+true
+```

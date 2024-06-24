@@ -103,5 +103,5 @@ Shubham
 
 Note that we got output even though the condition was false.
 
-### For of and For in loop
-We will cover these loops after we will cover OBJECTS IN JAVASCRIPT which is our next chapter.
+### For-of and For-in loop
+We will cover these loops after we will cover **[OBJECTS IN JAVASCRIPT](./30DaysOfJavaScript/07-Objects.md)** which is our next chapter.
