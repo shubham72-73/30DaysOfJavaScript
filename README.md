@@ -28,8 +28,9 @@ npm i docsify-cli -g
 
 * Run
 ```
-docsify serve
+npm start
 ```
+Open [localhost:3000](http://localhost:3000)
 
 ## 🧑‍💻 Contributing
 * Contributions to 30DaysOfJavaScript, Please check our [CONTRIBUTING.md](./CONTRIBUTING.md)
