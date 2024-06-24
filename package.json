@@ -1,0 +1,24 @@
+{
+  "name": "30daysofjavascript",
+  "version": "1.0.0",
+  "description": "This repository offers essential information for your JavaScript journey.",
+  "main": "index.js",
+  "scripts": {
+     "start": "docsify serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shubham72-73/30DaysOfJavaScript.git"
+  },
+  "keywords": [
+    "javascript",
+    "es6",
+    "esm"
+  ],
+  "author": "Shubham Singh Shivam Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shubham72-73/30DaysOfJavaScript/issues"
+  },
+  "homepage": "https://github.com/shubham72-73/30DaysOfJavaScript#readme"
+}
