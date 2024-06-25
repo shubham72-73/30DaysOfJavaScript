@@ -196,4 +196,4 @@ Output:
 
 Since we have learned about Objects, we are now ready to take a look into For-of and For-in Loop statements.
 
-So our next Chapter will focus on these two Loop Statements which are **[For-Of and For-In](./30DaysOfJavaScript/08-For-of-in.md)**.
+So our next Chapter will focus on these two Loop Statements which are **[For-Of and For-In](./08-For-of-in.md)**.
