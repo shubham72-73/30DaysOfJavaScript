@@ -35,7 +35,7 @@ There are 5 type of loops in JavaScript. These are as follows:
 - while loop
 - do while loop
 
-### For Loop
+## For Loop
 The above example shows the application of for loop.
 
 Syntax:
@@ -45,7 +45,7 @@ for (initialization; condition; increment/decrement){
 }
 ```
 
-### While Loop
+## While Loop
 Statements inside while loop will be executed only when the condition is `true`.
 
 Syntax:
@@ -75,7 +75,7 @@ Shubham
 Shubham
 ```
 
-### do-while loop
+## do-while loop
 A do-while loop is somewhat similar to while loop. The difference is that, statement is executed before checking the condition. This means that execution will happen at least once even if the condition is false.
 
 Syntax:
@@ -103,5 +103,5 @@ Shubham
 
 Note that we got output even though the condition was false.
 
-### For-of and For-in loop
+## For-of and For-in loop
 We will cover these loops after we will cover **[OBJECTS IN JAVASCRIPT](./30DaysOfJavaScript/07-Objects.md)** which is our next chapter.

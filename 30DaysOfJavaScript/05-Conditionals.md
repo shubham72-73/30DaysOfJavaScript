@@ -6,7 +6,7 @@ Conditional statements control behavior in JavaScript and determine whether or n
 - “Else if” statements: this specifies a new test if the first condition is false.
 - "Switch" statements: It executes a particular block of code based on the given conditions.
 
-### If Statement Example
+## If Statement Example
 As the most common type of conditional, the if statement only runs if the condition enclosed in parentheses () is truthy.
 
 ```javascript
@@ -21,7 +21,7 @@ Output
 You're eligible to take license
 ```
 
-### Else Statement Example
+## Else Statement Example
 You can extend an if statement with an else statement, which adds another block to run when the if conditional doesn’t pass.
 
 ```javascript
@@ -38,7 +38,7 @@ Output
 You're not eligible to take license
 ```
 
-### Else if Statement Example
+## Else if Statement Example
 You can also extend an if statement with an else if statement, which adds another conditional with its own block.
 
 ```javascript
@@ -57,10 +57,10 @@ Output
 You will be eligible next year to take license
 ```
 
-### Switch Statement Example
+## Switch Statement Example
 Switch statement is a control flow structure that allows you to execute different blocks of code depending on the value of an expression or variable.
 
-```js
+```javascript
 switch (expression) {
   case value1:
     // code to execute if expression === value1
@@ -76,7 +76,7 @@ switch (expression) {
 If we do not use 'break' statement, all the cases will be executed which are written after the matched case. <br/>
 Other thing to be noted is that we can use a 'default' statement which will be executed when none of the case is matched.
 
-```js
+```javascript
 let num = 1;
 switch (num){
     case 5:

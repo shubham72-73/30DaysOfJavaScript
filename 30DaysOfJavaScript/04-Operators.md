@@ -9,7 +9,7 @@ Operators in JavaScript are the special symbols that perform some process or cal
 - Ternary operator
 - Type operators
 
-### Arithmetic Operators
+## Arithmetic Operators
 - ( + ) used to perform addition.
 - ( - ) is used to perform subtraction.
 - ( * ) is used to perform multiplication.
@@ -18,10 +18,10 @@ Operators in JavaScript are the special symbols that perform some process or cal
 
 We can use `++` and `--` to perform increment and decrement operations.
 
-### Assignment Operator
+## Assignment Operator
 `=` is the assignment operator and is used to assign values to a variable.
 
-### Relational Operators
+## Relational Operators
 Relational operators return true or false based on comparison.
 - `>` checks if left hand side is greater than right hand side.
 - `<` checks if left hand side is smaller than right hand side.
@@ -31,24 +31,24 @@ Relational operators return true or false based on comparison.
 - `===` checks if left hand side is equals to right hand side. It also compares the type of data.
 
 You might get a clear picture of how `==` and `===` works differently from the below example:
-```js
+```javascript
 console.log(1=="1");
 ```
 This will print `true` as it does not compare the datatype.
-```js
+```javascript
 console.log(1==="1");
 ```
 This will print `false` as one of them is a string and other is a number.
 
 For Strings, ASCII value of subsequent characters are compared.
-```js
+```javascript
 console.log("Ball" > "Apple");
 ```
 This will print `true` because ASCII value of B (which is 66) is greater than ASCII value of A (which is 65).
 
 In JavaScript, `===` is preferred more as it compares the values keeping their data types, (i.e., no automatic data type coercion) which is helpful in avoiding bugs.
 
-### Logical Operators
+## Logical Operators
 Logical operators return `true` or `false` depending upon the conditions. There are three logical operators in JavaScript. These are as follows:
 - AND ( && )
 - OR ( || )
@@ -58,7 +58,7 @@ Logical operators return `true` or `false` depending upon the conditions. There 
 
 **AND ( && )** returns `true` if two conditions are true. If any of the two is false, result will be false.
 
-```js
+```javascript
 let result1 = 2<5 && 7<10;
 let result2 = 2<5 && 7>10;
 console.log(result1);
@@ -74,7 +74,7 @@ false
 
 **OR ( || )** returns `true` if any one or both of the conditions are true. It returns `false` only if both the conditions are false.
 
-```js
+```javascript
 let result1 = 2<5 || 7<10;
 let result2 = 2<5 || 7>10;
 let result3 = 2>5 || 7>10;
@@ -92,7 +92,7 @@ false
 
 **NOT ( ! )** just reverse the output i.e., it returns `true` for false conditions and `false` for true conditions.
 
-```js
+```javascript
 let result = 5>10;
 console.log(!result);
 ```

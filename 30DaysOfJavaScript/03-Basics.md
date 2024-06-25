@@ -59,7 +59,7 @@ let num3 = 18000000000000002n
 ```
 We should use 'BigInt' if number is very big otherwise some of the last digits will be ignored and will be rounded off. To do this, we have to add `n` at the end of that number (like in num3). Remember that we cannot add normal number to BigInt. We have first convert them also to BigInt.
 
-### Escape Sequences
+## Escape Sequences
 ```js
 var a = "This is a single inverted comma '";
 var b = 'This is a double inverted comma "';
@@ -85,7 +85,7 @@ List of escape sequence in JavaScript.
 - `\t` => for horizontal tab<br> 
 - `\v` => for vertical tab<br> 
 
-### Coercion and Conversion
+## Coercion and Conversion
 JavaScript variables can be converted to a new variable or another data type either by the use of JavaScript function or automatically by javascript itself. 
 
 * By using function
@@ -109,7 +109,7 @@ console.log(x);
 ```
 There's a condition with parseInt that numbers should be present at starting point. 
 
-### Adding to Strings
+### Adding two Strings
 ```js
 let firstName = "John";
 let lastName = "Doe";
@@ -121,7 +121,7 @@ This will print `JohnDoe`. To print with space we can add `" "`.
 fullname = firstName + " " + lastName;
 ```
 
-### Template Literals and Interpolation
+## Template Literals and Interpolation
 Nprmal attempt of printing output on console (i.e, using only `''` and `""`) is not considered very efficient if we have large number of variables in the same line. To overcome this, we use **Template Literal** and **Interpolation**.
 
 Template literals use back-ticks (\`) rather than quotes to define strings. backticks are located directly below the `Esc` key. This key has a tidle symbol (~) also.
