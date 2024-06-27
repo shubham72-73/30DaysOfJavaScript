@@ -15,3 +15,8 @@ Whether you are an entry-level enthusiast or a seasoned industry professional, o
 ## Authors
 
 <img src="https://contrib.rocks/image?repo=shubham72-73/30DaysOfJavaScript" />
+
+<div align="center">
+    <h3>Don't forget to ⭐ this repo</h3>
+    <h5>Building with the COMMUNITY for the COMMUNITY ❤️</h5>
+</div>
