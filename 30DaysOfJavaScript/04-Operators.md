@@ -7,7 +7,7 @@ Operators in JavaScript are the special symbols that perform some process or cal
 - Logical operator
 - Bitwise operator
 - Ternary operator
-- Type operators
+- Typeof operators
 
 ## Arithmetic Operators
 - ( + ) used to perform addition.
@@ -99,4 +99,44 @@ console.log(!result);
 Output:
 ```bash
 true
+```
+
+## Bitwise Operator
+These operators works directly on bits (binary digits) equivalent of a number. In JavaScript, all the numbers are stored as 64 bits floating point numbers, but all bitwise operations are performed on 32 bits. <br/>
+So, a number is converted to 32 bits signed integers before bitwise operation is performed on it. <br/>
+After the bitwise operation is performed, the result is converted back to 64 bits JavaScript numbers.
+
+### JavaScript Bitwise Operators
+- & (AND) - Sets each bit to 1 if both bits are 1.
+- | (OR) - Sets each bit to 1 if any one or both bits are 1.
+- ^ (XOR) - Sets each bit to 1 if only one of two bits is 1.
+- ~ (NOT) - Inverts all the bits.
+- << (Zero fill left shift) - Shifts left by pushing zeros in from the right and let the leftmost bits fall off.
+- \>> (Signed right shift) - Shifts right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off.
+- \>>> (Zero fill right shift) - Shifts right by pushing zeros in from the left, and let the rightmost bits fall off.
+
+## Ternary Operator
+Ternary Operator ( ? : ) acts similarly to the 'if-else' statement. If condition is `true`, it returns left side of colon ( : ) and if the condition is `false`, it returns right side of the colon ( : ).
+
+```javascript
+let result = 5%2===0 ? "Even" : "Odd";
+console.log(result);
+```
+Output:
+```bash
+Odd
+```
+
+## Typeof Operator
+The typeof operator returns the data type of a JavaScript variable.
+
+```javascript
+console.log(typeof "Hello");    //string
+console.log(typeof 5);          //number
+console.log(typeof 5.5);        //number
+console.log(typeof true);       //boolean
+console.log(typeof 1234n);      //bigint
+console.log(typeof a);          //undefined
+console.log(typeof NaN);        //number
+console.log(typeof null);       //object
 ```

@@ -8,6 +8,8 @@
 - [05- Conditionals](./30DaysOfJavaScript/05-Conditionals.md)
 - [06- Loops](./30DaysOfJavaScript/06-Loops.md)
 - [07- Objects](./30DaysOfJavaScript/07-Objects.md)
-- [08- For-Of and For-In Loop](./30DaysOfJavaScript/08-For-of-in.md)
+- [08- For-Of and For-In Loop](./30DaysOfJavaScript/08-ForOfIn.md)
+- [09- Functions](./30DaysOfJavaScript/09-Functions.md)
+- [10- Functions with Objects](./30DaysOfJavaScript/10-FunctionObject.md)
 
 </details>
