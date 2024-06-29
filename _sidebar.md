@@ -11,6 +11,7 @@
 - [08- For-Of and For-In Loop](./30DaysOfJavaScript/08-ForOfIn.md)
 - [09- Functions](./30DaysOfJavaScript/09-Functions.md)
 - [10- Functions with Objects](./30DaysOfJavaScript/10-FunctionObject.md)
-- [11- Functional Programming](./30DaysOfJavaScript/11-Functional-Programming.md)
+- [11- Arrays](./30DaysOfJavaScript/11-Array.md)
+- [12- Array Methods](./30DaysOfJavaScript/12-Array-Methods.md)
 
 </details>

@@ -1,4 +1,4 @@
-## Functional Programming
+## Advance Array Methods
 Instead of writing regular loop, latest version of JavaScript introduced lots of built in methods which can help us to solve complicated problems. All builtin methods take callback function. In this section, we will see forEach, map, filter, find, and sort.
 
 ### forEach
