@@ -13,5 +13,6 @@
 - [10- Functions with Objects](./30DaysOfJavaScript/10-FunctionObject.md)
 - [11- Arrays](./30DaysOfJavaScript/11-Arrays.md)
 - [12- Array Methods](./30DaysOfJavaScript/12-Array-Methods.md)
+- [13- Destructuring](./30DaysOfJavaScript/13-Destructuring.md)
 
 </details>
