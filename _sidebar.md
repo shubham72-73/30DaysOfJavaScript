@@ -14,5 +14,6 @@
 - [11- Arrays](./30DaysOfJavaScript/11-Arrays.md)
 - [12- Array Methods](./30DaysOfJavaScript/12-Array-Methods.md)
 - [13- Destructuring](./30DaysOfJavaScript/13-Destructuring.md)
+- [14- Console Object Methods](./30DaysOfJavaScript/14-Console-Object-Methods.md)
 
 </details>
