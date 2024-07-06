@@ -60,14 +60,6 @@ console.error('This is an error message')
 console.error('We all make mistakes')
 ```
 
-### console.error()
-The console.error() method shows an error messages.
-
-```javascript
-console.error('This is an error message')
-console.error('We all make mistakes')
-```
-
 ### console.count()
 It prints the number of times the console.count() is called. It takes a string label parameter. It is very helpful to count the number of times a function is called. In the following example,
 
