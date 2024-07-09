@@ -1,2 +1,2 @@
 * [Home](/)
-* [Start the repo ⭐](https://github.com/shubham72-73/30DaysOfJavaScript)
+* [Star the repo ⭐](https://github.com/shubham72-73/30DaysOfJavaScript)
