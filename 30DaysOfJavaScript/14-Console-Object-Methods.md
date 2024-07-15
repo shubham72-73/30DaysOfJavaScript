@@ -32,7 +32,7 @@ We can style logging message using css. Copy the following code.
 ```javascript
 console.log('%c30 Days Of JavaScript', 'color:green') // log output is green
 console.log(
-  '%c30 Days%c %cOf%c %cJavaScript%c',
+  '%c30 Days%c %cOf%c %cJavaScript',
   'color:green',
   '',
   'color:red',

@@ -1,27 +1,27 @@
 ## Advance Array Methods
 Instead of writing regular loop, latest version of JavaScript introduced lots of built in methods which can help us to solve complicated problems. All builtin methods take callback function. In this section, we will see forEach, map, filter, find, and sort.
 
-### forEach
+- ### forEach
 Used to iterate an array elements. We use forEach only with arrays. It takes a callback function with elements, index parameter and array itself. The index and the array optional.
 
 ```javascript
 let sum = 0;
 const numbers = [1, 2, 3, 4, 5];
-const add = numbers.forEach((num) => sum+= num)
-console.log(add)
+const add = numbers.forEach((num) => sum+= num);
+console.log(add);
 ```
 Output:
 ```bash
 15
 ```
 
-### map
+- ### map
 Used to iterate an array elements and modify the array elements. It takes a callback function with elements, index , array parameter and return a new array.
 
 ```javascript
 const elements = [2, 3, 4, 1];
-const multiply = elements.map((element) => element * 2)
-console.log(multiply)
+const multiply = elements.map((element) => element * 2);
+console.log(multiply);
 ```
 Output:
 ```bash
@@ -31,7 +31,7 @@ Output:
 2
 ```
 
-### filter
+- ### filter
 Used to filter out items which full fill filtering conditions and return a new array.
 
 ```javascript
@@ -44,7 +44,26 @@ Output:
 2
 4
 ```
-### find
+
+- ### reduce
+Used to reduce the values of whole array to just one value. To get the output value, we use a reducer function on each element of the array.
+
+```javascript
+let nums = [1,2,3,4,5];
+let result = nums.reduce((a,b)=>(a+b));     //sum of all elements
+console.log(result);
+```
+Output:
+```bash
+15
+```
+Reduce method can take upto 4 argument. These are shown in the example below:
+```javascript
+let result = nums.reduce(Accumulator, currentValue, currentIndex, Array);
+```
+If not specified, Accumulator is first element of the Array.
+
+- ### find
 find: Return the first element which satisfies the condition
 
 ```javascript
@@ -57,7 +76,7 @@ Output:
 23
 ```
 
-### sort
+- ### sort
 The sort methods arranges the array elements either ascending or descending order. By default, the sort() method sorts values as strings.This works well for string array items but not for numbers. If number values are sorted as strings and it give us wrong result. Sort method modify the original array. It is recommended to copy the original data before you start using sort method.
 
 ```javascript
